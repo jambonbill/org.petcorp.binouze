@@ -1,4 +1,4 @@
-<div class="row" style="padding:50px;background: #F4C5DB">
+<div class="row" style="padding:25px;background: #F4C5DB">
 
 	<div class="col-12">
 		<h1 class="franklin">HIBISCUS</h1>

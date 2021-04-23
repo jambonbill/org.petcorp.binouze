@@ -1,4 +1,4 @@
-<div class="row" style="padding:50px;background: #FCF603">
+<div class="row" style="padding:25px;background: #FCF603">
 
 	<div class="col-12">
 		<h1 class="franklin">CASTOR</h1>

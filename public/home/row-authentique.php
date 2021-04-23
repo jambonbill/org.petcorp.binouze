@@ -1,4 +1,4 @@
-<div class="row" style="padding:50px;background-color:#61C6D4">
+<div class="row" style="padding:25px;background-color:#61C6D4">
 
 	<div class="col-12">
 		<h1 class="franklin">AUTHENTIQUE</h1>

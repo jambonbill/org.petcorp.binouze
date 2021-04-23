@@ -1,4 +1,4 @@
-<div class="row" style="padding:50px;background: #93716C">
+<div class="row" style="padding:25px;background: #93716C">
 
 	<div class="col-12">
     	<h1 class="franklin">PORTER</h1>
