@@ -1,4 +1,4 @@
-<div class="row" style="padding:25px;background: #4D9941">
+<div class="row" style="padding-top:25px;background: #4D9941">
 
 	<div class="col-12">
 		<h1 class="franklin">POTION</h1>

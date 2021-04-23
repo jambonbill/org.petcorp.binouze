@@ -27,8 +27,7 @@ echo $admin->head();
 	// Authentique
 	require "row-authentique.php";
 
-	// Castor
-	require "row-castor.php";
+
 
 	// Exotique
 	require "row-exotique.php";
@@ -42,7 +41,8 @@ echo $admin->head();
 	// New england IPA
 	require "row-potion.php";
 
-
+	// Castor
+	require "row-castor.php";
 
 	//require "row-sharing.php";
 	require "row-footer.php";

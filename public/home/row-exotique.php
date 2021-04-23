@@ -1,4 +1,4 @@
-<div class="row" style="padding:25px;background-color:#81F96C">
+<div class="row" style="padding-top:25px;background-color:#81F96C">
 
 	<div class="col-12">
     	<h1 class="franklin">EXOTIQUE</h1>
