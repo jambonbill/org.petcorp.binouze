@@ -1,50 +1,17 @@
 
 body{
-	background: #FFFFFF;
+	background: #000000;
 	font-family: 'Ruda', sans-serif;
-	background:#000;
-	/* url("img/pspbuck-grey.png"); */
-	background-position: center center;
-	background-size: 200% auto;
 }
 
 h1{
-	font-size: 48px;
 	font-family: 'Rubik', sans-serif;
 }
 
-a{
-	/*color:#7E6CF1;*/
+
+div.desc{
 	font-weight: bold;
-}
-
-a:hover{
-	/*color:#7E6CF1;*/
-	text-decoration: underline;
-}
-
-div.white{
-	background-color:#FFFFFF;
-}
-
-div.nopadding{
-	padding-left:0px;
-	padding-right:0px;
-}
-
-div.rowOne{
-	padding-top: 30px;
-	padding-left: 60px;
-	padding-bottom: 20px;
-	color:#000000;
-	background:#FFFFFF;
-}
-
-
-div.share{
-	padding: 30px;
-	color:#000000;
-	background:#7E6CF1;
+	font-size:20px;
 }
 
 div.footer{
@@ -52,13 +19,4 @@ div.footer{
 	min-height:100px;
 	background:#000;
 	background-size: 200% auto;
-}
-
-
-
-.btn-black{
-	color:#fff;
-	font-weight: bold;
-	background-color: #000;
-	border:0;
 }
