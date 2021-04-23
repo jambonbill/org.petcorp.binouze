@@ -11,11 +11,17 @@ require __DIR__."/../../vendor/autoload.php";
 $admin = new LTE\Admin;
 echo $admin->head();
 ?>
+<div class="content-wrapper">
 
-<section class="container">
+	<section class="container">
+
+
+
 
 
 	<?php
+	//require "row-one.php";
+
 	require "row-intro.php";
 
 	// Authentique
@@ -30,14 +36,20 @@ echo $admin->head();
 	// Porter
 	require "row-porter.php";
 
+	// HIBISCUS
+	require "row-hibiscus.php";
+
 	// New england IPA
-	//
+	require "row-potion.php";
+
+
 
 	//require "row-sharing.php";
 	require "row-footer.php";
 	?>
 
-</section>
+	</section>
+</div>
 
 <link href="css/binouze.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Libre+Franklin" rel="stylesheet">

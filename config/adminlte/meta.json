@@ -1,0 +1,14 @@
+[
+		{"name":"description",  "content":"La Binouze by Kro Bock"},
+		{"property":"og:url",      "content":"https://binouze.petcorp.org"},
+		{"property":"og:title",    "content":"La Binouze by Kro Bock"},
+		{"property":"og:content",  "content":"article"},
+		{"property":"og:description",  "content":"La Binouze by Kro Bock"},
+		{"property":"og:image",  	"content":"https://binouze.petcorp.org/img/cover.jpg"},
+		{"name":"twitter:card",      "content":"summary"},
+		{"name":"twitter:title",    "content":"La Binouze"},
+		{"name":"twitter:content",  "content":"article"},
+		{"name":"twitter:site",  "content":"@pet_corp"},
+		{"name":"twitter:description",  "content":"La Binouze by Kro Bock"},
+		{"name":"twitter:image",  "content":"https://binouze.petcorp.org/img/cover.jpg"}
+	]
