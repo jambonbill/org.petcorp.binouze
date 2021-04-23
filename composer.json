@@ -1,0 +1,16 @@
+{
+
+    "description": "La Binouze",
+
+    "type": "project",
+
+	"autoload":{
+        "psr-0":{}
+    },
+
+    "require":{
+	    "php": ">=7.0.0",
+	    "ext-pdo":"*",
+        "jambonbill/lteturbo": ">=1.0"
+	}
+}
