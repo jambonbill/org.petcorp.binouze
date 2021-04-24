@@ -11,10 +11,11 @@
 	</div>
 
 	<div class="col-md-6 desc">
+		<p>"India Pale Ale"</p>
 		<p>Bière blonde bien houblonnée au parfum d'agrume (pamplemousse) marqué</p>
-		<p>India Pale Ale</p>
+
 		<p>Houblon : Citra</p>
-		<p><b>5.5%</b></p>
+		<p><b>5.5% Alc.</b></p>
 	</div>
 
 

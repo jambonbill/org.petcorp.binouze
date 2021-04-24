@@ -11,9 +11,10 @@
 	</div>
 
 	<div class="col-md-6 desc">
+        <p>"Porter"</p>
     	<p>Bière noire très torrefiée aux notes de café et cacao</p>
     	<p>Houblon : Fuggle</p>
-    	<p>6%</p>
+    	<p>6% Alc.</p>
 	</div>
 </div>
 

@@ -11,9 +11,10 @@
 	</div>
 
 	<div class="col-md-6 desc">
+    	<p>"Bitter"</p>
     	<p>Blonde au houblon japonais donnant un parfum exotique (coco) avec une fine amertume</p>
 		<p>Houblon : Sorachi Ace</p>
-		<p>5%</p>
+		<p>5% Alc.</p>
 	</div>
 </div>
 

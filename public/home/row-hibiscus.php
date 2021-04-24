@@ -11,9 +11,10 @@
 	</div>
 
 	<div class="col-md-6 desc">
+		<p>"Weizenbier"</p>
     	<p>Bière de blé a l'infusion d'hibiscus, couleur rosée, sèche et fruitée, très désalterante.</p>
     	<p>Houblon : Citra</p>
-    	<p>4.5%</p>
+    	<p>4.5% Alc.</p>
 
 	</div>
 

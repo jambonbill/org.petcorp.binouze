@@ -11,9 +11,10 @@
 	</div>
 
 	<div class="col-md-6 desc">
+		<p>"New England IPA"</p>
     	<p>Lorem ipsum binouze sit amertum, consecbitur houblon elit. Aqua findus sed massa in gravida.</p>
-    	<p>Houblon : xxx</p>
-    	<p>5%</p>
+    	<p>Houblon : Chinook</p>
+    	<p>5% Alc.</p>
 	</div>
 
 

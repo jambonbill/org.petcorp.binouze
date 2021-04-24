@@ -11,9 +11,10 @@
 	</div>
 
 	<div class="col-md-6 desc">
+		<p>"Red Ale"</p>
 		<p>Bière blonde de soif, légere et douce</p>
 		<p>Houblon : Castor</p>
-		<p>5%</p>
+		<p>5% Asc.</p>
 	</div>
 
 </div>
